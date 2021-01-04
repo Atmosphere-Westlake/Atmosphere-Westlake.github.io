@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Major Environmental Issues and Frontier Researches"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2020-fall
+venue: "Westlake University, School of Engineering"
+date: 2020-09-01
+location: "Hangzhou"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Major Environmental Issues and Frontier Researches

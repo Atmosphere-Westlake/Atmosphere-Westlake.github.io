@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Dr. Yuzhong Zhang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Sciences, Peking University, 2010
+* M.S. in Statistics, Georgia Institute of Technology, 2015
+* Ph.D in Atmospheric Science, Georgia Institute of Technology, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2017: Post-doctoral Fellow
+  * Georgia Institute of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2019: Post-doctoral Fellow
+  * Harvard University
+
+* 2020-Now: Assistant Professor
+  * Westlake University
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Talks
 ======
@@ -53,7 +45,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Environmental modeling & data analysis
+* Scientific programing
+* Satellite data analytics
+  
+
