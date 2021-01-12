@@ -11,9 +11,9 @@ title                    : "大气环境研究"
 title_separator          : "-"
 name                     : &name "Atmospheric Environment Research @ Westlake University"
 description              : &description "Atmospheric chemistry modeling & data analysis"
-url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://febfly.github.io/group # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "febfly/atmosphere"
+repository               : "febfly/group"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
