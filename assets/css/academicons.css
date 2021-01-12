@@ -325,3 +325,10 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+/*
+ *
+*/
+img.rounded-corners {
+  border-radius: 30px;
+}
