@@ -22,4 +22,4 @@ Email: zhangyuzhong at westlake.edu.cn
 Tel: (0571)87089389/ (0571)87089883  
 
 <!--p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p-->
-<iframe src="/talkmap/campus_location.html" height="700" width="850" style="border:none;"></iframe>
+<iframe src="talkmap/campus_location.html" height="700" width="850" style="border:none;"></iframe>
