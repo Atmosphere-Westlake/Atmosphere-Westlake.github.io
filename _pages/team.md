@@ -7,5 +7,8 @@ redirect_from:
   - /team
 ---
 
+{% include base_path %}
 
-placeholder for team
+{% for post in site.portfolio %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
