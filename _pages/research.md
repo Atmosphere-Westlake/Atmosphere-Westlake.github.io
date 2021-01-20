@@ -11,6 +11,7 @@ redirect_from:
 
 # Atmospheric Environment Research Group @ Westlake University 
 ---
+<img src='/images/group/Group.JPG'> 
 
 The air we breathe everyday consists of, in addition to the bulk of nitrogen and oxygen, a multitude of trace gases and particles. These trace compositions account for only a tiny fraction of air (from parts per million down to even parts per trillion), as compared to nitrogen and oxygen, but they play critical roles in Earth’s energy balance, have huge impacts on the health of human, animals, and plants, and are closely associated with critical environmental issues that we are facing today, for example, air pollution, acid rain, ozone hole, and climate change.
 
@@ -29,4 +30,3 @@ Our research focuses on better understanding these atmospheric trace species, th
 ### Light absorbing organic aerosols
 
 
-<img src='/images/foo-bar-identity.jpg'>
