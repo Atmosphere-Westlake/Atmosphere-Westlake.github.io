@@ -1,6 +1,6 @@
 ---
 title: "谢欣春 Xie,Xinchun"
-excerpt: "<img src='/images/group/XieXinchun.JPG' class='rounded-corners'><br/>PhD student"
+excerpt: "<img src='/images/group/XieXinchun_small.JPG' class='rounded-corners'><br/>PhD student"
 collection: team
 ---
 <img src='/images/group/XieXinchun.JPG' class='rounded-corners'>

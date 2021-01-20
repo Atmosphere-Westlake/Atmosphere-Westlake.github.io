@@ -1,6 +1,6 @@
 ---
 title: "江科 Jiang,Ke"
-excerpt: "<img src='/images/group/JiangKe.JPG' class='rounded-corners'><br/>Research assistant"
+excerpt: "<img src='/images/group/JiangKe_small.JPG' class='rounded-corners'><br/>Research assistant"
 collection: team
 ---
 <img src='/images/group/JiangKe.JPG' class='rounded-corners'>
