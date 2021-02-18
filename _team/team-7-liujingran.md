@@ -4,5 +4,8 @@ excerpt: "<img src='/images/group/LiuJingran_small.JPG' class='rounded-corners'>
 collection: team
 ---
 <img src='/images/group/LiuJingran.JPG' class='rounded-corners'>
-<br/>Short description of portfolio item number 1<br/>
+
+## Education
+* 2016-2020 **Qinghai University** Environmental Engineering (Bachelor)
+* 2020-now **Westlake University** & **Zhejiang University** Environmental Science and Engineering (PhD candidate)
 

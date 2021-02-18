@@ -4,5 +4,10 @@ excerpt: "<img src='/images/group/LiangRuosi_small.JPG' class='rounded-corners'>
 collection: team
 ---
 <img src='/images/group/LiangRuosi.JPG' class='rounded-corners'>
-<br/>Short description of portfolio item number 1<br/>
+
+## Education
+* 2012-2016 **Xiangtan University**, Computational Mathematic (Bachelor)
+* 2016-2019 **Fudan University**, Computational Mathematic (Master)
+* 2019-now  **Westlake University** & **Zhejiang University**, Environmental Science and Engineering (PhD candidate)
+
 

@@ -7,7 +7,7 @@ collection: team
 
 My research topic is atmospheric brown carbon (BrC).
 
-Education
+## Education
 * 2012-2016 **Nanjing University of Information Science and Technology** Atmospheric Science (Atmospheric Environment, Bachelor)
-* 2017-2020 **Nanjing University of InformationScience and Technology** Environmental Meteorology(Master)
-* 2020-now **Westlake University& ZheJiang University Environmental** Science and Engineering(PhD candidate)
+* 2017-2020 **Nanjing University of InformationScience and Technology** Environmental Meteorology (Master)
+* 2020-now **Westlake University** & **ZheJiang University** Environmental Science and Engineering (PhD candidate)

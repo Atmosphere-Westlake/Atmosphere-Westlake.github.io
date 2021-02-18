@@ -4,5 +4,9 @@ excerpt: "<img src='/images/group/JiangKe_small.JPG' class='rounded-corners'><br
 collection: team
 ---
 <img src='/images/group/JiangKe.JPG' class='rounded-corners'>
-<br/>Short description of portfolio item number 1<br/>
+
+## Education
+* 2014-2018 **Central South University**, Geological Engineering (Bachelor)
+* 2018-2020 **Harbin Institute of Technology of Technology**, Environmental Science and Technology（Master）
+
 

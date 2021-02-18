@@ -4,5 +4,9 @@ excerpt: "<img src='/images/group/YangLiyang_small.JPG' class='rounded-corners'>
 collection: team
 ---
 <img src='/images/group/YangLiyang.JPG' class='rounded-corners'>
-<br/>Short description of portfolio item number 1<br/>
+
+## Education
+2013-2017 **Yantai University** Environmental Science and Technology（Bachelor）
+2017-2020 **Zhejiang University of Technology** Environmental Science and Technology（Master）
+
 
