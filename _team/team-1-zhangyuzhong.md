@@ -7,15 +7,15 @@ collection: team
 <br/>Dr. Yuzhong Zhang is the principle investigator of the Atmospheric Environment Research Group at Westlake University.<br/>
 
 ## Education
-* Peking University, B.S., Environmental Sciences, 2006-2010
-* Georgia Institute of Technology, Atlanta, Georgia, USA
-  * Ph.D., School of Earth and Atmospheric Sciences, 2010-2015
-  * M.S., Statistics, School of Industrial and Systems Engineering, 2013-2015
+* **Peking University**, B.S., Environmental Sciences, _2006-2010_
+* **Georgia Institute of Technology**, _2010-2015_
+  * Ph.D., School of Earth and Atmospheric Sciences
+  * M.S. in Statistics, School of Industrial and Systems Engineering
 
 ## Research Experience
-* Georgia Institute of Technology, Post-doctoral Fellow, 2016-2017
-* Harvard University, Post-doctoral Fellow, 2017-2019
-* Environmental Defense Fund, Kravis Post-doctoral Fellow, 2017-2019
+* **Georgia Institute of Technology**, Postdoctoral Fellow, _2016-2017_
+* **Harvard University**, Postdoctoral Fellow, _2017-2019_
+* **Environmental Defense Fund**, Kravis postdoctoral Fellow, _2017-2019_
 
 ## Representative Publications
 * **Zhang, Y.**, D.J. Jacob, X. Lu, J.D. Maasakkers, T.R. Scarpelli, J.-X. Sheng, L. Shen, Z. Qu, M.P. Sulprizio, J. Chang, A.A. Bloom, S. Ma, J. Worden, R.J. Parker, H. Boesch: <font color="#e63900">Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations</font>, _Atmos. Chem. Phys. Discuss._, in review, 2020.[[link]](https://acp.copernicus.org/preprints/acp-2020-964/)
