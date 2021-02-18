@@ -13,8 +13,8 @@ main:
   - title: "Presentations"
     url: /presentations/      
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Resources"
     url: /resources/
