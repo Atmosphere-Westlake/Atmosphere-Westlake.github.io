@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "大气环境研究"
+title                    : "西湖大学大气环境研究组"
 title_separator          : "-"
 name                     : &name "Atmospheric Environment Research @ Westlake University"
 description              : &description "Atmospheric chemistry modeling & data analysis"
@@ -181,12 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
   team:
     output: true
     permalink: /:collection/:path/
@@ -231,14 +231,14 @@ defaults:
       share: false
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   #- scope:
   #    path: ""
