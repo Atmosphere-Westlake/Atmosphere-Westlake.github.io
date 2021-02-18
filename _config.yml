@@ -240,13 +240,22 @@ defaults:
       share: true
       comment: true
   # _talks
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: false
+  #    share: false
+  # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
-      layout: talk
+      layout: single
       author_profile: false
       share: false
+      comment: false
   # _team
   - scope:
       path: ""
