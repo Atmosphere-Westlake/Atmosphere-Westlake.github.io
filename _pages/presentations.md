@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations"
+title: "学术报告Presentations"
 permalink: /presentations/
 author_profile: true
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "数据资源 Resources"
+title: "数据和代码 Resources"
 permalink: /resources/
 author_profile: true
 redirect_from:
