@@ -16,7 +16,7 @@ Auxiliary data for "Zhang et al., 2020, Quantifying methane emissions from the l
 ********************
 
 # <font color="#e63900">Global GOSAT inversion, 2010-2018</font>
-Auxiliary data for "Zhang et al., 2020, Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations. ACP, in review"
+Auxiliary data for "Zhang et al., 2021, Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations. Atmos. Chem. Phys."
 
 **Dataset DOI**: [https://doi.org/10.5281/zenodo.4052518](https://doi.org/10.5281/zenodo.4052518)
 {% comment %}<!--<img src='/images/foo-bar-identity.jpg'>--> {% endcomment %}
