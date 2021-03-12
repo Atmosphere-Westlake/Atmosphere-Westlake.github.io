@@ -20,17 +20,9 @@ Our research focuses on better understanding these atmospheric trace species, th
 
 *********************************************
 ## Research Projects
-{% include image_text.html image_path="profile.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
-
-
-### Greenhouse gas methane
-* Inverse analysis of anthropogenic and natural emissions of methane using satellite and ground-based observations
-* Monitor global hydroxyl radical concentration with satelllite observations of atmospheric methane 
-* Identification of global oil&gas methane emission hotspot
-
-### Atmospheric oxdiative power
-
-
-### Light absorbing organic aerosols
+{% include image_text.html image_path="profile.png" title="Greenhouse gas methane" description="Methane is a potent short-term greenhouse gas. We use satellite- & ground-based observations to identify and quantify methane emissions across different spatial & temporal scales, and understand their perturbations by human activities & natural variabilities. " %}
+{% include image_text.html image_path="profile.png" title="Atmospheric oxdiative power" description="Some more text that will appear to the left of the image." %}
+{% include image_text.html image_path="profile.png" title="Light absorbing organic aerosols" description="Some more text that will appear to the left of the image." %}
+{% include image_text.html image_path="profile.png" title="Atmospheric chemistry modeling" description="Some more text that will appear to the left of the image." %}
 
 
