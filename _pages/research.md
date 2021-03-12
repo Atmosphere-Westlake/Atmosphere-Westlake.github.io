@@ -20,6 +20,7 @@ Our research focuses on better understanding these atmospheric trace species, th
 
 *********************************************
 ## Research Projects
+{% include image_text.html image_path="profile.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
 ### Greenhouse gas methane
 * Inverse analysis of anthropogenic and natural emissions of methane using satellite and ground-based observations
 * Monitor global hydroxyl radical concentration with satelllite observations of atmospheric methane 
