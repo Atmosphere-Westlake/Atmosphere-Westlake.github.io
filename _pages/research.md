@@ -20,9 +20,8 @@ Our research focuses on better understanding these atmospheric trace species, th
 
 *********************************************
 ## Research Projects
-{% include image_text.html image_path="profile.png" title="Greenhouse gas methane" description="Methane is a potent short-term greenhouse gas. We use satellite- & ground-based observations to identify and quantify methane emissions across different spatial & temporal scales, and understand their perturbations by human activities & natural variabilities. " %}
-{% include image_text.html image_path="profile.png" title="Atmospheric oxdiative power" description="Some more text that will appear to the left of the image." %}
-{% include image_text.html image_path="profile.png" title="Light absorbing organic aerosols" description="Some more text that will appear to the left of the image." %}
-{% include image_text.html image_path="profile.png" title="Atmospheric chemistry modeling" description="Some more text that will appear to the left of the image." %}
+{% include image_text.html title="Greenhouse gas methane" description="Methane is a potent short-term greenhouse gas. We use satellite- & ground-based observations to identify and quantify methane emissions in different regions and across different spatial & temporal scales. We also try to understand the global and regional budget of atmospheric methane and its perturbations by human activities & natural variabilities. " %}
+{% include image_text.html title="Atmospheric oxidation capacity" description="Oxidation capacity of the global atmosphere is largely determined by the global mean concentration of the hydroxyl radical (OH). But there is no easy way to measure this key parameter in atmospheric chemistry directly. Our work in this topic includes (1) development of novel methods to infer global mean OH concentrations from observations of its proxies and (2) assessment of natural processes that govern the inter-annual variability of global OH. This information will help us better understand the global budget and the chemical feedback of atmospheric methane now and into the future. " %}
+{% include image_text.html title="Light absorbing organic aerosols" description="Organic aerosols that absorbs shortwave radiation is termed as brown carbon. Brown carbon is found to be emitted mainly from low-temperature imcomplete combustion, which often occurs during forest fires and biofuel use. We use atmospheric models to interpret the observed distribution of brown carbon and assess its impact on climate and chemistry. " %}
 
 
