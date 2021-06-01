@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "联系方式 Contact Information"
+title: "联系我们 Contact US"
 permalink: /contact_us/
 author_profile: true
 redirect_from:
@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+# 职位招聘 Opening
+本实验室长期招聘博士后、助理研究员。有意者请根据以下方式联系。
+
+# 联系方式 Contact Information
 西湖大学　工学院　大气环境研究实验室  
 浙江省杭州市西湖区云栖小镇石龙山街18号
      
