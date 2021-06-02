@@ -11,9 +11,9 @@ title                    : "西湖大学大气环境研究组"
 title_separator          : "-"
 name                     : &name "Atmospheric Environment Research @ Westlake University"
 description              : &description "Atmospheric chemistry modeling & data analysis"
-url                      : https://febfly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://atmosphere-westlakeu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "febfly"
+repository               : "Atmosphere-WestlakeU"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
 #  facebook         :
   foursquare       :
-  github           : "febfly"
+  github           : "Atmosphere-WestlakeU"
   google_plus      :
   keybase          :
   instagram        :
