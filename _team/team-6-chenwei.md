@@ -5,8 +5,12 @@ collection: team
 ---
 <img src='/images/group/ChenWei.JPG' class='rounded-corners'>
 
+## Research Interest
+Atmospheric oxidation capacity
+
 ## Education
-* 2016-2020 **Xi’an University of Architecture and Technology** 
-* 2020-now  **Westlake university** & **Zhejiang University**, Environmental Science and Engineering
+2016-2020 **Xi’an University of Architecture and Technology** Environmental Engineering(Bacgelor)
+2020-present **Westlake university** & **Zhejiang University** Environmental Science and Engneering(PhD candidate)
 
-
+## Email
+chenwei@westlake.edu.cn
