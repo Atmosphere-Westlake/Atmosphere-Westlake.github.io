@@ -7,9 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "西湖大学大气环境研究组"
+#title                    : "西湖大学大气环境研究组"
+title                    : "大气环境研究"
 title_separator          : "-"
-name                     : &name "Atmospheric Environment Research @ Westlake University"
+name                     : &name "Atmospheric Environment Research | Yuzhong Zhang Group"
 description              : &description "Atmospheric chemistry modeling & data analysis"
 url                      : https://atmosphere-westlake.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +81,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Atmospheric Environment Research Group @ Westlake University"
+ # name             : "Atmospheric Environment Research Group @ Westlake University"
+  name             : "Atmospheric Environment Research | Yuzhong Zhang Group"
   avatar           : "profile.png"
   bio              : "atmospheric chemistry modeling | data analysis | air pollution | climate change | greenhouse gas"
   location         : "Hangzhou, China"
