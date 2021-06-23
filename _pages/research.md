@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Atmospheric Environment Research Group @ Westlake University 
+# Atmospheric Environment Research @ Yuzhong Zhang Group 
 ---
 <img src='/images/group/Group.JPG'> 
 
